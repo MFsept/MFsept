@@ -1,48 +1,47 @@
 # 👋 Bienvenue sur mon GitHub !
 
-🎓 Étudiant à [École 42], passionné de programmation, jeux vidéo et intelligence artificielle.
+🎓 Étudiant à [École 42], passionné par la programmation, le jeu vidéo et l'intelligence artificielle.
 
 ---
 
-## 🧠 Qui suis-je ?
+## 🧠 À propos de moi
 
-- 👨‍💻 Étudiant à **42**, passionné par l’informatique bas niveau et la performance
-- 🧩 Curieux, toujours prêt à apprendre de nouveaux langages ou paradigmes
-- 🎮 Intéressé par le **développement de jeux** et l’**IA**
-- 💡 J’aime coder proprement, comprendre les fondements, et créer des projets utiles ou fun
-
----
-
-## 💻 Compétences techniques
-
-| Langages        | Outils & Tech     | Intérêts              |
-|-----------------|------------------|------------------------|
-| C / C++          | Git & GitHub      | Game dev 🎮           |
-| Python (bases)   | Shell / Bash      | Intelligence Artificielle 🧠 |
-|                 | Linux             | Algorithmes & IA       |
+- 👨‍💻 Actuellement en formation à **42**
+- 💡 Intéressé par la **programmation bas niveau**, l’**IA** et le **game dev**
+- 🔧 Toujours curieux de comprendre comment les systèmes fonctionnent en profondeur
+- 🎮 J’aime expérimenter avec du code, apprendre de nouveaux concepts et construire des projets qui m’amusent
 
 ---
 
-## 📚 Projets & Contributions
+## 💻 Compétences principales
 
-📌 Tu peux explorer mes projets publics ci-dessus ⬆️  
-Je travaille principalement sur des projets liés à **42**, à la **programmation système**, et parfois à des **projets personnels** autour du jeu ou de l’IA.
+| Langages        | Outils            | Centres d’intérêt       |
+|-----------------|------------------|--------------------------|
+| C / C++         | Git, Linux        | Jeux vidéo & IA         |
+| Python (bases)  | Shell / Bash      | Algorithmes             |
 
 ---
 
-## ✨ GitHub Stats
+## 🔍 Projets
+
+📌 Consulte mes dépôts pour voir mes projets de 42, mes tests techniques ou mes explorations personnelles autour du **code**, du **jeu vidéo** ou de **l’IA**.
+
+---
+
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
 ## 📫 Me contacter
 
-- ✉️ [email facultatif ou lien LinkedIn]
-- 📌 [Facultatif : lien vers un portfolio ou site perso]
+📎 **Discord : `TonPseudo#1234`**
+
+*(N’hésite pas à m’envoyer un message)*
 
 ---
 
-> _"Stay curious. Keep building."_ 🚀
+> _"Simplicity is the soul of efficiency."_
