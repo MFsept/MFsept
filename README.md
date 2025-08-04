@@ -1,14 +1,14 @@
 # 👋 Bienvenue sur mon GitHub !
 
-🎓 Étudiant à [École 42], passionné par la programmation, le jeu vidéo et l'intelligence artificielle.
+🎓 Étudiant à 42 Paris,
 
 ---
 
 ## 🧠 À propos de moi
 
 - 👨‍💻 Actuellement en formation à **42**
-- 💡 Intéressé par la **programmation bas niveau**, l’**IA** et le **game dev**
-- 🔧 Toujours curieux de comprendre comment les systèmes fonctionnent en profondeur
+- 💡 Intéressé par l’**IA** et le **game dev**
+- 🔧 Toujours curieux de découvrir de nouveaux langages et renforcer mes skills personnels
 - 🎮 J’aime expérimenter avec du code, apprendre de nouveaux concepts et construire des projets qui m’amusent
 
 ---
@@ -18,30 +18,31 @@
 | Langages        | Outils            | Centres d’intérêt       |
 |-----------------|------------------|--------------------------|
 | C / C++         | Git, Linux        | Jeux vidéo & IA         |
-| Python (bases)  | Shell / Bash      | Algorithmes             |
+| Python (bases)  | Shell / Bash      | Algorithmes,            |
 
 ---
 
-## 🔍 Projets
+## 🧩 Mes projets
 
-📌 Consulte mes dépôts pour voir mes projets de 42, mes tests techniques ou mes explorations personnelles autour du **code**, du **jeu vidéo** ou de **l’IA**.
+Je travaille sur des projets liés à **l’apprentissage système**, au **développement bas niveau** et à des concepts d’**intelligence artificielle légère**.  
+Certains sont des travaux 42, d’autres sont personnels ou expérimentaux.  
+👉 Explore mes dépôts publics ci-dessus pour en découvrir plus.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tonpseudo&theme=tokyo-night&hide_border=true" alt="Graphique d'activité GitHub" />
 </p>
 
 ---
 
 ## 📫 Me contacter
 
-📎 **Discord : `TonPseudo#1234`**
-
+📎 **Discord : `m_f_7`**  
 *(N’hésite pas à m’envoyer un message)*
 
 ---
 
-> _"Simplicity is the soul of efficiency."_
+> _"Simplicity is the soul of efficiency."_ – Austin Freeman
