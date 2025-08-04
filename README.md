@@ -18,22 +18,27 @@
 | Langages        | Outils            | Centres d’intérêt       |
 |-----------------|------------------|--------------------------|
 | C / C++         | Git, Linux        | Jeux vidéo & IA         |
-| Python (bases)  | Shell / Bash      | Algorithmes,            |
+| Python (bases)  | Shell / Bash      | Algorithmes             |
 
 ---
 
 ## 🧩 Mes projets
 
-Je travaille sur des projets liés à **l’apprentissage système**, au **développement bas niveau** et à des concepts d’**intelligence artificielle légère**.  
-Certains sont des travaux 42, d’autres sont personnels ou expérimentaux.  
-👉 Explore mes dépôts publics ci-dessus pour en découvrir plus.
+Je développe et expérimente autour de sujets comme :
+
+- 🔧 la programmation bas niveau
+- 🤖 des algorithmes simples d’intelligence artificielle
+- 🕹️ des prototypes de logique de jeux
+- 📚 des projets réalisés dans le cadre de 42
+
+➡️ Mes projets publics sont visibles ci-dessus — certains en cours, d’autres terminés.
 
 ---
 
 ## 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tonpseudo&theme=tokyo-night&hide_border=true" alt="Graphique d'activité GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -45,4 +50,4 @@ Certains sont des travaux 42, d’autres sont personnels ou expérimentaux.
 
 ---
 
-> _"Simplicity is the soul of efficiency."_ – Austin Freeman
+> _"Code is not just instructions — it’s a way to think."_ – Bret Victor
