@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Bienvenue%20sur%20mon%20GitHub%20!&fontColor=ffffff&fontSize=40&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e2a47&height=150&section=header&text=Bienvenue%20sur%20mon%20GitHub%20!&fontColor=ffffff&fontSize=40&fontAlignY=40
+  " />
 </p>
 
 🎓 Étudiant à 42 Paris,
